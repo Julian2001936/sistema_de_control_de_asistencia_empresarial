@@ -1,0 +1,18 @@
+# Librerías instaladas — no subir, pesan demasiado
+node_modules/
+
+# Variables de entorno — contienen contraseñas, NUNCA subir
+.env
+.env.local
+
+# Archivos generados al compilar
+dist/
+build/
+.next/
+
+# Logs de errores
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,6 +1,7 @@
 # 🎓 Sistema de Control de Asistencia Empresarial
 
-> Proyecto full-stack
+Proyecto full-stack
+
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -43,9 +44,9 @@ El **Sistema de Control de Asistencia Empresarial** es una aplicación web full-
 
 | Aspecto | Detalle |
 |---|---|
-| **Tipo** | Proyecto académico demostrativo — Guiado por el Docente |
-| **Empresa objetivo** | ~200 empleados distribuidos en departamentos |
-| **Entidades** | 10 entidades con relaciones (ver modelo de datos) |
+| **Tipo** | Proyecto académico demostrativo |
+| **Empresa objetivo** | 200 empleados distribuidos en departamentos |
+| **Entidades** | 10 entidades con relaciones |
 | **Casos de Uso** | 10 CUs principales |
 | **Historias de Usuario** | 16 HUs organizadas en 5 sprints |
 | **Releases** | 2 releases alineados con los cortes académicos |
